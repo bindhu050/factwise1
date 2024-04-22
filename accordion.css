@@ -1,0 +1,39 @@
+.accordion-heading {
+  font-weight: 500;
+  font-size: 18px;
+}
+.userimage {
+  border-radius: 50%;
+  border: 2px solid #dbdbdb;
+  width: 50px;
+}
+.accordion-body-title {
+  color: #b2b2b2;
+}
+.accordion-icon-delete {
+  color: red;
+  font-size: 22px;
+}
+.accordion-icon-edit {
+  color: #0d86ff;
+  font-size: 22px;
+}
+.error-text {
+  color: red;
+}
+.accordion-icon-cancel {
+  color: red;
+  font-size: 22px;
+}
+.accordion-icon-save {
+  color: green;
+  font-size: 25px;
+}
+.accordion-button-delete {
+  background-color: #ff5d00;
+  color: white;
+}
+.accordion-button-cancel {
+  border-color: #dbdbdb;
+  color: black;
+}
